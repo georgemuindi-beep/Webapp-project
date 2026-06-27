@@ -41,6 +41,13 @@ footer {
   font-weight: bold;
 }
 
+.faq-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+
 footer {
   background-color: #343a40;
   color: #f8f9fa;
