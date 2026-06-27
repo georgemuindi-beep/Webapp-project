@@ -1,4 +1,10 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 body {
+  font-family: 'Poppins', sans-serif;
+}
+
+ body {
   font-family: Arial, sans-serif;
   background-color: #f8f9fa;
 }
@@ -22,4 +28,9 @@ footer {
 .container h1 {
   margin-bottom: 20px;
   font-weight: bold;
+}
+
+footer {
+  background-color: #343a40;
+  color: #f8f9fa;
 }
