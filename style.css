@@ -52,3 +52,17 @@ footer {
   background-color: #343a40;
   color: #f8f9fa;
 }
+
+.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+.dark-mode .navbar {
+  background-color: #333 !important;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #f1f1f1;
+}
