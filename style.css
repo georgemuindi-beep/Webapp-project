@@ -92,6 +92,12 @@ footer {
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
+.gallery img {
+  border: 3px solid #ddd;
+  border-radius: 10px;
+}
+
+
 
 
 
